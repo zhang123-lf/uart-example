@@ -1,4 +1,4 @@
-verilog-uart
+1234verilog-uart
 ============
 Simple 8-bit UART realization on [Verilog HDL](https://en.wikipedia.org/wiki/Verilog).
 
